@@ -3,3 +3,4 @@ transformers==4.49.0
 jupyterlab==4.3.5
 ipywidgets==8.1.5
 accelerate==1.4.0
+pypinyin==0.53.0
